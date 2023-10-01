@@ -1,16 +1,24 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Enpass Application
+- project: Enpass Application
+  role: Software Developer
+  duration: June 2022 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 	<ul class="resume-item-list"><li>  Enpass is a versatile desktop application that allows you to securely manage your passwords, credit card information, and other sensitive data</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# OES Scoreboard Controller with QT QML
+- project: OES Scoreboard Controller with QT QML
+  role: Embedded Software Developer
+  duration: jan 2021 &mdash; june 2022
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description:  <ul class="resume-item-list"><li> Developed a versatile Scoreboard Controller for multiple sports (baseball, basketball, football, etc.) using C++, Qt QML, and integrated with SQLite3 database for efficient data management.</li><li> Utilized Qt Creator and Qt Framework to create responsive and dynamic user interfaces, enabling real time updates and seamless control over the scoreboard.</li><li> Collaborated with a team of developers to optimize performance, ensure data integrity, and deliver a reliable Scoreboard Controller for various sports events and competitions.</li></ul>
+
+
+# Home Automation Application Firmware
+- project: Smart Building Management System with IOT
+  role: Embedded Software Developer
+  duration: jan 2021 &mdash; june 2022
+  # url: "#"
+  description: 	<ul class="resume-item-list"><li> Developed & implemented Building Management System, optimizing heating/cooling energy usage.</li><li> Expertise in MySQL, Influx DB, Redis Server, MQTT, UART & I2C Protocols, Zigbee 3.0</li><li> Proficient in C, Python, Shell Scripting. Skilled with NOVASOM M7, Silicon Lab Gecko Eval Board</li><li> Collaborated cross-functional teams for Sensor Management Unit & cloud integration.</li><li> Ensured code quality, stability. Used VIM, VS Code, Simplicity Studio, GCC Tool Chain.</li><li> Leveraged Zigbee Support Sensors for scalability. Updated system with emerging tech.</li></ul>
