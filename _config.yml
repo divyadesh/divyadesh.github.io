@@ -21,7 +21,7 @@ resume_contact_telephone:       "+91 8305516312"
 resume_contact_address:         "IMT Manesar Gurugram Haryana Bharat"
 
 resume_header_contact_info:     "IMT Manesar Gurugram Haryana Bharat • +91 8305516312 • adeshworkmail@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am currently working as QT software developer. I am a Developer with an interest in learning new things and technologies. Also has knowledge on data structures, Embedded Software , QT QML UI development for Embedded as well as desktop and Object-Oriented Programming.</p>"
 
@@ -37,10 +37,10 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+# resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+# resume_section_associations:    true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

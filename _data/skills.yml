@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Software Development Skills
+  description: C / C++ Programming, QT / QML, QT Device Creation ,Python Programming, IOT Embedded Software Development, Data Structure.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Tools & IDEs
+  description: <ul class="resume-item-list"><li> Qt Creator</li><li> Git, Jira, Bitbucket, Gitlab</li><li> Linux OS, Windows OS, Embedded Linux</li><li> Raspberry Pi 3, NovasomeM7, VAR-SOM-MX8M-MINI Development Board</li></ul>
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Other Skills
+  description: <ul class="resume-item-list"><li> IOT Firmware Development</li><li> Yocto Project</li><li> Boot2Qt for Embedded Device Creation</li><li> UART</li><li> Automotive Cluster UI</li></ul>
